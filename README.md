@@ -57,10 +57,10 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 &nbsp;
 <!-- Its main projects -->
 <p align="center">
-  <a href="https://github.com/silentiris/handle-path-oz">
+  <a href="https://github.com/silentiris/Hospital_alarm_system_backend">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=silentiris&repo=Hospital_alarm_system_backend" />
   </a>
-  <a href="https://github.com/silentiris/circleci-github-changelog-generator">
+  <a href="https://github.com/silentiris/cqhttp_bot">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=silentiris&repo=cqhttp_bot" />
   </a>
 </p>
