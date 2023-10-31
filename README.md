@@ -21,7 +21,7 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m silentiris.
 - 👀 I ’m interest in Java, GoLang, server development, database, computer network, etc.
-- 🌱 I’m currently learning jvm, juc, springcloud ; 
+- 🌱 I’m currently learning jvm, juc, kitex, hertz, grpc, kafka ; 
 - ⚡ Fun fact ... **overwatch**❤
 - 📫 How to reach me: s1lentdragon@outlook.com;
 
